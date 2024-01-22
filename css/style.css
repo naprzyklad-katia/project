@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.h1{
+    color: darkblue;
+}
+.h1--primary{
+    color: red;
+}
+.h1--help{
+    color: green;
+}
+.h1--secondary{
+    color: blue;
+}
